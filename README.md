@@ -5,3 +5,6 @@ usage: `python hog_svm.py [src_dir]`
 
 The result image is output to result folder automatically.
 
+The output sample is below ...
+
+![Alt text](/result/result_sample_1.png)
